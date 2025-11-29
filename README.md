@@ -9,8 +9,8 @@ Frontend Mentor challenges help you practice real-world HTML and CSS by recreati
 
 ## 🔗 Links
 
-- Solution URL: (add your GitHub repo link here)
-- Live Site URL: (add your deployed website link here)
+- Solution URL: https://github.com/Mano6383/qr-code-componen
+- Live Site URL: (https://willowy-cranachan-943590.netlify.app/)
 
 ---
 
